@@ -19,3 +19,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-ga&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="lucas-ga" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-ga&show_icons=true&theme=tokyonight&locale=en" alt="lucas-ga" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
