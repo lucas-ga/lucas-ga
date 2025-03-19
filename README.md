@@ -26,5 +26,5 @@
   <img alt="github-snake" src="https://github.com/lucas-ga/lucas-ga/blob/output/github-snake.svg" />
 </picture>
 
-<!--START_BADGES:badges-->
-<!--END_BADGES:badges-->
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
