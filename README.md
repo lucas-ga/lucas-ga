@@ -26,5 +26,5 @@
   <img alt="github-snake" src="https://github.com/lucas-ga/lucas-ga/blob/output/github-snake.svg" />
 </picture>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="870416ae-4dd6-484e-ab73-e2d16ce01bdc" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!--START_BADGES:badges-->
+<!--END_BADGES:badges-->
