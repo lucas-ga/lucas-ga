@@ -27,4 +27,5 @@
 </picture>
 
 <!--START_SECTION:badges-->
+[![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](http://www.credly.com/badges/870416ae-4dd6-484e-ab73-e2d16ce01bdc "AWS Educate Introduction to Cloud 101")
 <!--END_SECTION:badges-->
