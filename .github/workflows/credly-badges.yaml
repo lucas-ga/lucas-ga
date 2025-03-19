@@ -14,6 +14,6 @@ jobs:
       - name: Update
         uses: mikejoh/credly-badges@main
         with:
-          CREDLY_USERNAME: lucas-silva.2aee19c1
+          CREDLY_USERNAME: "lucas-silva.2aee19c1"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MESSAGE: "Update Credly badges!"
