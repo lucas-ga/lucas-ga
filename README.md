@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-ga&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-ga" /> </p>
 
-- 🌱 I’m currently doing a **bachelor's degree in Computer Science.**
+- 🌱 I’m currently enrolled in an **MBA in Software Architecture – Full Cycle**
 
 - 📫 How to reach me **lucassilva_jlle@outlook.com**
 
