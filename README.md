@@ -19,8 +19,9 @@
 <h3 align="left">My Badges:</h3>
 
 <!--START_SECTION:badges-->
-[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/fc16416d-c5f3-4108-bcce-4bba0fa77a38 "AWS Cloud Quest: Cloud Practitioner")
-[![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](http://www.credly.com/badges/870416ae-4dd6-484e-ab73-e2d16ce01bdc "AWS Educate Introduction to Cloud 101")
+<a href="https://www.credly.com/badges/faaad562-8e62-4da6-aac1-9e8fd810e19d" title="Unity Essentials Pathway"><img src="https://images.credly.com/size/80x80/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob" alt="Unity Essentials Pathway" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/fc16416d-c5f3-4108-bcce-4bba0fa77a38" title="AWS Cloud Quest: Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitioner" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/870416ae-4dd6-484e-ab73-e2d16ce01bdc" title="AWS Educate Introduction to Cloud 101"><img src="https://images.credly.com/size/80x80/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="AWS Educate Introduction to Cloud 101" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 
