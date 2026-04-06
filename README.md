@@ -21,10 +21,10 @@
 ### 🛠 Tech Stack
 I work with a variety of technologies, prioritizing maintainability and performance:
 
-- **Languages:** Java, PHP
+- **Languages:** Java, JavaScript
 - **Low-Code/Platform:** GeneXus
 - **Infrastructure & Cloud:** AWS, Docker, PostgreSQL
-- **Hardware & IoT:** Arduino, Wireless Security (Cert. Solyd)
+- **Hardware & IoT:** Arduino, Wireless Security
 
 ### 🎖 Certifications
 <p align="left">
