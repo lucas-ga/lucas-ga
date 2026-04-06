@@ -44,6 +44,8 @@ Areas I tinker with outside of work:
 - **IoT & Hardware** — Arduino-based projects
 - **Wireless Networks** — WiFi protocols, network configuration and security fundamentals
 
+---
+
 ### 🎖 Certifications
 <p align="left">
 <a href="https://www.credly.com/badges/fc16416d-c5f3-4108-bcce-4bba0fa77a38"><img src="https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" title="AWS Cloud Quest: Cloud Practitioner" alt="AWS Cloud" width="60" height="60"></a>
