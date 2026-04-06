@@ -1,30 +1,48 @@
 <h1 align="center">Hi, I'm Lucas Silva</h1>
-<h3 align="center">Software Architecture Student | Java & Genexus Developer | AI & IoT Enthusiast</h3>
+<h3 align="center">Systems Analyst & Developer | Java · GeneXus · AWS</h3>
 
 <p align="center">
-  Building robust, scalable, and intelligent systems. 
-  Passionated about backend architecture, cloud solutions, and the intersection between hardware and software.
+  Focused on backend development and software architecture.<br/>
+  Currently deepening my knowledge in system design, cloud infrastructure, and AI-driven solutions.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/lucas99">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:lucassilva_jlle@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
 ### 🎓 Currently
-- Enrolled in **MBA in Software Architecture (Full Cycle)**.
-- Exploring **AI-driven development** and **IoT integrations** to bridge the gap between firmware and scalable cloud architectures.
 
-### 🛠 Tech Stack
-I work with a variety of technologies, prioritizing maintainability and performance:
+- **MBA in Software Architecture** — Full Cycle
+- Studying distributed systems, cloud-native patterns, and AI integration in backend applications
 
-- **Languages:** Java, JavaScript
-- **Low-Code/Platform:** GeneXus
-- **Infrastructure & Cloud:** AWS, Docker, PostgreSQL
-- **Hardware & IoT:** Arduino, Wireless Security
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+Java · JavaScript
+
+**Platform**
+GeneXus
+
+**Infrastructure & Cloud**
+AWS · Docker · PostgreSQL
+
+---
+
+### 🔬 Exploring & Interests
+
+Areas I tinker with outside of work:
+
+- **IoT & Hardware** — Arduino-based projects
+- **Wireless Networks** — WiFi protocols, network configuration and security fundamentals
 
 ### 🎖 Certifications
 <p align="left">
